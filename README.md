@@ -2,8 +2,8 @@
 
 Anki is awesome but its UI is dated. You can fix this by leveraging
 Anki's powerful customization options. This repo describes the card
-style I personally use. It implements the idea of an American
-Psycho-like business card laid down on a marble table.
+style I personally use. It implements the idea of a business card
+laid down on a marble table.
 
 On flashcard design:
 
