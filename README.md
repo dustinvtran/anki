@@ -22,8 +22,16 @@ On flashcard design:
 
 Front:
 
-![](front.png)
+![](vocab-front.png)
 
 Back:
 
-![](back.png)
+![](vocab-back.png)
+
+Front:
+
+![](grammar-front.png)
+
+Back:
+
+![](grammar-back.png)
