@@ -24,3 +24,4 @@ Front | Back
 :-------------------------:|:-------------------------:
 ![](vocab-front.png) | ![](vocab-back.png)
 ![](grammar-front.png) | ![](grammar-back.png)
+![](kanji-front.png) |
