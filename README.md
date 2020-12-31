@@ -20,18 +20,7 @@ On flashcard design:
   discovered this from the Anki deck
   [Jp Grammar - Tae Kim's Guide to JP w/ Diagrams, Kanji Info](https://ankiweb.net/shared/info/712638578).
 
-Front:
-
-![](vocab-front.png)
-
-Back:
-
-![](vocab-back.png)
-
-Front:
-
-![](grammar-front.png)
-
-Back:
-
-![](grammar-back.png)
+Front | Back
+:-------------------------:|:-------------------------:
+![](vocab-front.png) | ![](vocab-back.png)
+![](grammar-front.png) | ![](grammar-back.png)
